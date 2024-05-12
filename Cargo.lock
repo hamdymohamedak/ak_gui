@@ -12,9 +12,9 @@ dependencies = [
 
 [[package]]
 name = "ak_macros"
-version = "0.2.4"
+version = "0.2.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "801523232e336a2ed0e48be99040d88e2064b11dedf404d9f041a34854f7cacb"
+checksum = "d5b2506cffcd7308b23fab7878cff1a55062222bc812dc3eee8eb24b851492f0"
 
 [[package]]
 name = "autocfg"
